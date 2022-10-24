@@ -1,0 +1,1 @@
+{"10": true, "12": false, "2": false, "13": true, "9": false, "16": true, "4": true, "20": false, "5": false, "14": false, "17": true, "3": true, "15": false, "19": false, "8": false, "1": true, "6": false, "18": false, "7": false, "11": false}
